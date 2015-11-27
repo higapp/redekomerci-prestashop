@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>redekomerci</name>
+	<displayName><![CDATA[Redecard Komerci API]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[M&oacute;dulo de pagamento da Redecard.]]></description>
+	<author><![CDATA[Ideia Embalagens]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Deseja realmente excluir?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
